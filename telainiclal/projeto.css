@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Open+Sans:wght@400;700&family=Poppins:wght@100&display=swap');
+
+
+*{
+    font-family: Poppins;
+    background-color: #FAF7FD;
+    text-decoration: none;
+}
+
+
+.content{
+    text-align: center;
+    height: 300px;
+    margin-top: 50px;
+}
+
+li{
+    background-color: #FAF7FD;
+    align-items: center;
+}
+
+.foto{
+    border-radius: 300px;
+    width: 90px;
+    margin-left: 42px;
+    border: 1.5px solid #BB99DD;
+}
+
+.instagram-pic, .github-pic, .facebook-pic, .linkedin-pic{
+    width: 30px;
+    margin-left: 20px;
+}
+
+button{
+    height: 40px;
+    width: 350px;
+    margin: 10px;
+    border: 2px solid #BB99DD;
+    font-size: 14px;
+}
+
+.insta{
+    margin-left: 40px;
+}
+
+.imgs{
+    margin-left: 25px;
+}
+
+button:hover{
+    background-color: #BB99DD;
+}
